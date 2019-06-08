@@ -1,0 +1,43 @@
+html {
+/* background-color:lightgreen; */
+height:100%
+}
+
+  h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin:0px;
+  width:300px;
+  padding:0px
+}
+.paralax{
+  background-image:url("images/header-bg.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  height:100%
+
+}
+
+ul{
+  border: 3px solid;
+}
+h1{
+  color:lightgreen;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  width: 100%;
+  padding:0px;
+  margin:0px
+}
+img{
+width:100%;
+display:block;
+}
+.gallery{
+  columns: 3;
+  column-gap: 10px
+}
